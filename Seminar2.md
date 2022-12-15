@@ -14,4 +14,8 @@
 
 ## Branch delete 
 
+<<<<<<< HEAD
 Текст для создания конфликта.
+=======
+* *Git branch –d branch_to_delete* – эта команда позволяет удалить необходимую нам ветку.
+>>>>>>> deleting/branch
