@@ -6,4 +6,6 @@
 
 ## Branch merging
 
+* *git merge bramch_name* - команда, осуществляющая слияние текущей ветки с веткой branch_name.
+
 ## Conflicts
